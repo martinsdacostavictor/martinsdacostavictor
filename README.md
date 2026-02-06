@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Victor 👋
 
-<!--
-**Victor-Martins1/Victor-Martins1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science student** and **aspiring Data Analyst** who enjoys turning messy data into clear insights and stories that actually matter.
 
-Here are some ideas to get you started:
+🔍 I'm especially interested in:
+- Data analysis & visualization
+- Business intelligence
+- SQL optimization and data modeling
+- Using data to support real-world decisions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills & Tools
+
+**Languages & Analysis**
+- Python (pandas, numpy, matplotlib)
+- SQL (MySQL, PostgreSQL)
+- Excel (advanced formulas, pivot tables)
+
+**Visualization & BI**
+- Power BI (DAX, dashboards, data modeling)
+
+**Other**
+- Data cleaning & exploratory analysis  
+- Translating business questions into data queries
+
+---
+
+## 🌎 Languages
+
+- 🇺🇸 English — fluent  
+- 🇧🇷 Portuguese — native  
+- 🇪🇸 Spanish — fluent  
+
+(Comfortable working in multilingual teams and international environments.)
+
+---
+
+## 📊 What You'll Find Here
+
+This GitHub is a collection of:
+- Data analysis projects
+- SQL queries and database exercises
+- Exploratory notebooks and dashboards
+- Learning experiments as I grow in data & analytics
+
+Each project focuses on **clarity, reproducibility, and real insight**, not just code.
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm currently seeking **internships or entry-level roles in Data Analysis / Business Intelligence**, where I can:
+- Learn from real data
+- Contribute meaningful insights
+- Grow toward advanced analytics and data science
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: *www.linkedin.com/in/martinsdacostavictor*
+- 📧 Email: *martinsdacosta.victor@gmail.com*
+
+Thanks for stopping by!
