@@ -1,65 +1,61 @@
 # Hi, I'm Victor 👋
 
-I'm a **Computer Science student** and **aspiring Data Analyst** who enjoys turning messy data into clear insights and stories that actually matter.
+I'm a **Computer Science student** and **aspiring Data Analyst** who loves turning messy data into clear insights that actually matter.
 
-🔍 I'm especially interested in:
-- Data analysis & visualization
-- Business intelligence
-- SQL optimization and data modeling
-- Using data to support real-world decisions
+🔍 **Interests:**
+- Data analysis & visualization  
+- Business intelligence  
+- SQL optimization & data modeling  
+- Using data to drive real-world decisions  
 
 ---
 
 ## 🧠 Skills & Tools
 
-**Languages & Analysis**
-- Python (pandas, numpy, matplotlib)
-- SQL (MySQL, PostgreSQL)
-- Excel (advanced formulas, pivot tables)
+**Languages & Analysis:**  
+Python (pandas, numpy, matplotlib) | SQL (MySQL, PostgreSQL) | Excel (advanced formulas, pivot tables)  
 
-**Visualization & BI**
-- Power BI (DAX, dashboards, data modeling)
+**Visualization & BI:**  
+Power BI (DAX, dashboards, data modeling)  
 
-**Other**
-- Data cleaning & exploratory analysis  
-- Translating business questions into data queries
+**Other:**  
+Data cleaning, exploratory analysis, translating business questions into actionable queries  
 
 ---
 
 ## 🌎 Languages
 
-- 🇺🇸 English — fluent  
-- 🇧🇷 Portuguese — native  
-- 🇪🇸 Spanish — fluent  
+- 🇺🇸 English — Fluent  
+- 🇧🇷 Portuguese — Native  
+- 🇪🇸 Spanish — Fluent  
 
-(Comfortable working in multilingual teams and international environments.)
+*(Comfortable collaborating in multilingual and international teams)*
 
 ---
 
 ## 📊 What You'll Find Here
 
-This GitHub is a collection of:
-- Data analysis projects
-- SQL queries and database exercises
-- Exploratory notebooks and dashboards
-- Learning experiments as I grow in data & analytics
+- Data analysis projects  
+- SQL exercises & queries  
+- Exploratory notebooks & dashboards  
+- Learning experiments in data & analytics  
 
-Each project focuses on **clarity, reproducibility, and real insight**, not just code.
-
----
-
-## 🎯 What I'm Looking For
-
-I'm currently seeking **internships or entry-level roles in Data Analysis / Business Intelligence**, where I can:
-- Learn from real data
-- Contribute meaningful insights
-- Grow toward advanced analytics and data science
+**Focus:** clarity, reproducibility, and actionable insights—not just code.  
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 Seeking
 
-- 💼 LinkedIn: *www.linkedin.com/in/martinsdacostavictor*
-- 📧 Email: *martinsdacosta.victor@gmail.com*
+Internships or entry-level roles in **Data Analysis / Business Intelligence**, where I can:  
+- Work with real data  
+- Deliver meaningful insights  
+- Grow toward advanced analytics & data science  
+
+---
+
+## 🤝 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/martinsdacostavictor)  
+- 📧 Email: martinsdacosta.victor@gmail.com  
 
 Thanks for stopping by!
